@@ -1,0 +1,48 @@
+
+body{
+        background-color: #d8e0ed;
+}
+
+body div p{
+        margin: 30px 30px 30px 30px;
+    }
+
+
+h1{
+        text-align: center;
+}
+
+form{
+        margin:10px;
+}
+
+.formulaires{
+        border: 1px solid #7d8cae;
+        display:flex;
+        justify-content: space-around;
+}
+
+.gauche, .droite{
+        border: 1px solid #7d8cae;
+        padding:20px;
+}
+
+table{
+        border: 1px solid #7d8cae;
+        border-spacing: 0;
+        border-collapse: collapse;
+}
+    
+th, td{
+        width: calc(100vw/8);
+        max-width: calc(100vw/8);
+        height: 100px;
+        overflow-wrap: break-word;
+        padding: 10px;
+        border: 1px solid #7d8cae;
+}
+
+th{
+       background-color: #aebdd7;
+       border: 1px solid white;
+}
