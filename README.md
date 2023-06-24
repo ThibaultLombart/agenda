@@ -2,6 +2,18 @@
 
 C'est un agenda créé en Python vers HTML à l’aide d’une librairie “www” (Créé par un Professeur). Nous avons utilisé des boucles, des fonctions (développement en module) permettant de factoriser les tâches redondantes et d’intégrer de nouvelles fonctionnalités. Il est possible d’exporter et d’importer un fichier .txt permettant de retrouver sa sauvegarde.
 
+## Fonctionnalités
+
+A l'aide de cet agenda, nous pouvons :
+
+- Ajouter des informations pour tous les jours de la semaine a un horaire entre 8 heures et 20 heures.
+- Sauvegarder nos informations dans un fichier.
+- Importer nos informations depuis un fichier.
+- Echanger deux cases.
+- Copier, Coller ou Couper une case.
+
+Nous avons également un résumé des informations de la semaine trié dans l'ordre des jours et heures.
+
 ## Installation
 
 Si vous n'avez pas encore la librairie "os" de Python
