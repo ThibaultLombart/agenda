@@ -14,6 +14,8 @@ A l'aide de cet agenda, nous pouvons :
 
 Nous avons également un résumé des informations de la semaine trié dans l'ordre des jours et heures.
 
+Un fichier appelé "exemple_a_importer.txt" est également fourni, permettant de tester l'import de fichier.
+
 ## Installation
 
 Si vous n'avez pas encore la librairie "os" de Python
